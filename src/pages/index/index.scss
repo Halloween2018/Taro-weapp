@@ -1,0 +1,22 @@
+.index {
+  flex-direction: column;
+  width: 100%;
+  background-color: white;
+}
+.img {
+  background-color: black;
+  color: white;
+  height: 250px;
+  height: 100%;
+  text-align: center;
+  &-1 {
+    background-color: red;
+  }
+  &-2 {
+    background-color: green;
+  }
+  &-3 {
+    background-color: blue;
+  }
+}
+
